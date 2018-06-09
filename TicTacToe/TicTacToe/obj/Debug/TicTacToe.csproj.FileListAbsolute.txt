@@ -1,0 +1,17 @@
+C:\Users\flipp\Desktop\ITMO\TicTacToe\TicTacToe\TicTacToe\obj\Debug\App.g.cs
+C:\Users\flipp\Desktop\ITMO\TicTacToe\TicTacToe\TicTacToe\obj\Debug\TicTacToe_MarkupCompile.cache
+C:\Users\flipp\Desktop\ITMO\TicTacToe\TicTacToe\TicTacToe\obj\Debug\TicTacToe_MarkupCompile.lref
+C:\Users\flipp\Desktop\ITMO\TicTacToe\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
+C:\Users\flipp\Desktop\ITMO\TicTacToe\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+C:\Users\flipp\Desktop\ITMO\TicTacToe\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Users\flipp\Desktop\ITMO\TicTacToe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.g.resources
+C:\Users\flipp\Desktop\ITMO\TicTacToe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+C:\Users\flipp\Desktop\ITMO\TicTacToe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.cache
+C:\Users\flipp\Desktop\ITMO\TicTacToe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\flipp\Desktop\ITMO\TicTacToe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
+C:\Users\flipp\Desktop\ITMO\TicTacToe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
+C:\Users\flipp\Desktop\ITMO\TicTacToe\TicTacToe\TicTacToe\obj\Debug\Lobby.g.cs
+C:\Users\flipp\Desktop\ITMO\TicTacToe\TicTacToe\TicTacToe\obj\Debug\Lobby.baml
+C:\Users\flipp\Desktop\ITMO\TicTacToe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csprojAssemblyReference.cache
+C:\Users\flipp\Desktop\ITMO\TicTacToe\TicTacToe\TicTacToe\obj\Debug\Game.g.cs
+C:\Users\flipp\Desktop\ITMO\TicTacToe\TicTacToe\TicTacToe\obj\Debug\Game.baml

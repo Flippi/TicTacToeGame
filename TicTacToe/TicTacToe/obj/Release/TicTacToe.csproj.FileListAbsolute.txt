@@ -1,0 +1,15 @@
+C:\Users\flipp\Desktop\ITMO\TicTacToe\TicTacToe\TicTacToe\bin\Release\TicTacToe.exe.config
+C:\Users\flipp\Desktop\ITMO\TicTacToe\TicTacToe\TicTacToe\bin\Release\TicTacToe.exe
+C:\Users\flipp\Desktop\ITMO\TicTacToe\TicTacToe\TicTacToe\bin\Release\TicTacToe.pdb
+C:\Users\flipp\Desktop\ITMO\TicTacToe\TicTacToe\TicTacToe\obj\Release\MainWindow.g.cs
+C:\Users\flipp\Desktop\ITMO\TicTacToe\TicTacToe\TicTacToe\obj\Release\App.g.cs
+C:\Users\flipp\Desktop\ITMO\TicTacToe\TicTacToe\TicTacToe\obj\Release\TicTacToe_MarkupCompile.cache
+C:\Users\flipp\Desktop\ITMO\TicTacToe\TicTacToe\TicTacToe\obj\Release\TicTacToe_MarkupCompile.lref
+C:\Users\flipp\Desktop\ITMO\TicTacToe\TicTacToe\TicTacToe\obj\Release\MainWindow.baml
+C:\Users\flipp\Desktop\ITMO\TicTacToe\TicTacToe\TicTacToe\obj\Release\TicTacToe.g.resources
+C:\Users\flipp\Desktop\ITMO\TicTacToe\TicTacToe\TicTacToe\obj\Release\TicTacToe.Properties.Resources.resources
+C:\Users\flipp\Desktop\ITMO\TicTacToe\TicTacToe\TicTacToe\obj\Release\TicTacToe.csproj.GenerateResource.cache
+C:\Users\flipp\Desktop\ITMO\TicTacToe\TicTacToe\TicTacToe\obj\Release\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\flipp\Desktop\ITMO\TicTacToe\TicTacToe\TicTacToe\obj\Release\TicTacToe.exe
+C:\Users\flipp\Desktop\ITMO\TicTacToe\TicTacToe\TicTacToe\obj\Release\TicTacToe.pdb
+C:\Users\flipp\Desktop\ITMO\TicTacToe\TicTacToe\TicTacToe\obj\Release\TicTacToe.csprojResolveAssemblyReference.cache

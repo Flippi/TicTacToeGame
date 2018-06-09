@@ -1,0 +1,6 @@
+C:\Users\flipp\Desktop\ITMO\TicTacToe\TicTacToeServer\bin\Release\TicTacToeServer.exe.config
+C:\Users\flipp\Desktop\ITMO\TicTacToe\TicTacToeServer\bin\Release\TicTacToeServer.exe
+C:\Users\flipp\Desktop\ITMO\TicTacToe\TicTacToeServer\bin\Release\TicTacToeServer.pdb
+C:\Users\flipp\Desktop\ITMO\TicTacToe\TicTacToeServer\obj\Release\TicTacToeServer.csproj.CoreCompileInputs.cache
+C:\Users\flipp\Desktop\ITMO\TicTacToe\TicTacToeServer\obj\Release\TicTacToeServer.exe
+C:\Users\flipp\Desktop\ITMO\TicTacToe\TicTacToeServer\obj\Release\TicTacToeServer.pdb
